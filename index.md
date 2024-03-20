@@ -1,4 +1,4 @@
-### Engineering and outsource development
+### Engineering and Outsource Development
 
 Hello there! I'm a web developer 👨‍💻 currently running an agency in partnership with my long-time colleague.
 
